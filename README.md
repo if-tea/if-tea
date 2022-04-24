@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-<p align="center">
-    <samp>
-<details>
-  <summary>My Profile Stats</summary>
-  <br/>
 [![if-tea's GitHub stats](https://github-readme-stats.vercel.app/api?username=if-tea&show_icons=true&theme=tokyonight)](https://github.com/if-tea/github-readme-stats)
- <br/>
-</details>
-  
+ 
+
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=if-tea&layout=compact&hide_border=true&theme=tokyonight)]
   <!--
 **if-tea/if-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
