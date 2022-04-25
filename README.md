@@ -1,11 +1,17 @@
-### About Me 🐼
+<img align="center" width="300" height="300" src="https://github.com/if-tea/if-tea/blob/main/assets/if-tea github logo transparent.png">
 
-    I am a lazy guy who loces to do coding and designing.
+
+## About Me 🐼
+
+A melancholy coder with a passion for designing things...
 
 | <a href="https://github.com/if-tea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=if-tea&show_icons=true&hide_border=true&theme=midnight-purple" alt="if-tea's github stats" /></a> | <a href="https://github.com/if-tea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if-tea&layout=compact&hide_border=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- |
 
- 
+## ⚡ Fun fact
+
+I have a <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">surprise</a> for you. ❤
+
   <!--
 **if-tea/if-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +27,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- : ...
 -->
