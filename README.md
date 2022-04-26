@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" width="300" height="300" src="https://github.com/if-tea/if-tea/blob/main/assets/if-tea github logo transparent.png"></h1>
+<p align="center"><img width="300" height="300" src="https://github.com/if-tea/if-tea/blob/main/assets/if-tea github logo transparent.png"></p>
 
 
 ## About Me 🐼
