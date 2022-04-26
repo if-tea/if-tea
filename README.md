@@ -8,7 +8,7 @@ A melancholy coder with a passion for designing things...
 | <a href="https://github.com/if-tea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=if-tea&show_icons=true&hide_border=true&theme=midnight-purple" alt="if-tea's github stats" /></a> | <a href="https://github.com/if-tea/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if-tea&layout=compact&hide_border=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- |
 
-## ⚡ Fun fact
+## Fun fact ⚡
 
 I have a <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">surprise</a> for you. ❤
 
